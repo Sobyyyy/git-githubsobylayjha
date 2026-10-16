@@ -8,3 +8,7 @@ The list of hospitals is:
 ###QM Hospital
 
 ###Guys Hospital
+
+WHittington
+
+Royal Free
